@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://http://44.212.48.170:8081/repository/VK/</url>
+		    <url>http://http://3.239.240.143:8081/repository/maven-releases/</url>
 		</repository>
   	</distributionManagement>
 	
